@@ -63,4 +63,4 @@ const yamlObj = {
 }
 yamlObj.payload = yamlObj.payload.concat(result.subdomain)
 yamlObj.payload = yamlObj.payload.concat(result.fullDomain)
-await fs.writeFile('./tmp/porn.yaml', yaml.stringify(yamlObj))
+await fs.writeFile('./porn.yaml', yaml.stringify(yamlObj))
