@@ -43,9 +43,9 @@ function parse(rules: string[]) {
 async function parseUrl(url: string) {
     console.log(url)
     const file = await download(url, 'tmp', {
-            agent: new HttpsProxyAgent({
-                proxy: 'http://127.0.0.1:7890'
-        })
+            // agent: new HttpsProxyAgent({
+            //     proxy: 'http://127.0.0.1:7890'
+        // })
     })
     const rules = file.toString('utf-8').split('\n')
     const result = parse(rules)
