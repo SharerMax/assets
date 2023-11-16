@@ -50,14 +50,14 @@ async function parseUrl(url: string) {
     const rules = file.toString('utf-8').split('\n')
     const result = parse(rules)
     for (const includeRule of result.include) {
-        const downloadUrl = `https://raw.iqiq.io/v2fly/domain-list-community/master/data/${includeRule}`
+        const downloadUrl = `https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/${includeRule}`
         const includeResult = await parseUrl(downloadUrl)
         result.fullDomain =  result.fullDomain.concat(includeResult.fullDomain)
         result.subdomain = result.subdomain.concat(includeResult.subdomain)
     }
     return result
 }
-const result = await parseUrl('https://raw.iqiq.io/v2fly/domain-list-community/master/data/category-porn')
+const result = await parseUrl('https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-porn')
 const yamlObj = {
     payload: Array<string>()
 }
