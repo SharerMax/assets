@@ -33,3 +33,4 @@ payload:
   - '+.v2raya.org'
   - '+.techradar.com'
   - 'dl.flathub.org'
+  - 'stackpath.bootstrapcdn.com' # https://typeorm.io/
