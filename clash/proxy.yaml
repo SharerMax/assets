@@ -34,3 +34,5 @@ payload:
   - '+.techradar.com'
   - 'dl.flathub.org'
   - 'stackpath.bootstrapcdn.com' # https://typeorm.io/
+  - '+.annas-archive.org'
+  - '+.singlelogin.re'
