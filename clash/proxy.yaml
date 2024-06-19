@@ -36,3 +36,4 @@ payload:
   - 'stackpath.bootstrapcdn.com' # https://typeorm.io/
   - '+.annas-archive.org'
   - '+.singlelogin.re'
+  - 'sing-box.sagernet.org'
