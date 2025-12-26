@@ -1,0 +1,6 @@
+# https://support.mozilla.org/zh-CN/kb/canary-domain-use-application-dnsnet
+# https://github.com/openwrt/packages/blob/master/net/https-dns-proxy/files/etc/init.d/https-dns-proxy
+payload:
+  - 'use-application-dns.net'
+  - 'mask.icloud.com'
+  - 'mask-h2.icloud.com'
