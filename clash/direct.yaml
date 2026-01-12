@@ -1,5 +1,5 @@
 payload:
-  - '+.arpara.net'
-  - '+.arparaland.com'
-  - '+.arpara-platform.com'
-  - '+.gvt1-cn.com'
+  - 'DOMAIN-SUFFIX,arpara.net'
+  - 'DOMAIN-SUFFIX,arparaland.com'
+  - 'DOMAIN-SUFFIX,arpara-platform.com'
+  - 'DOMAIN-SUFFIX,gvt1-cn.com'
