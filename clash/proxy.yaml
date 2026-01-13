@@ -46,4 +46,6 @@ payload:
   - 'DOMAIN-SUFFIX,dns.google' #DNS
   - 'DOMAIN-SUFFIX,one.one.one.one' #DNS  
   - 'DOMAIN-SUFFIX,cloudflare-dns.com' #DNS
+  - 'IP-CIDR,1.1.1.1/32' #DNS
+  - 'IP-CIDR,1.0.0.1/32' #DNS
   - 'DOMAIN-SUFFIX,dns.sb' #DNS
