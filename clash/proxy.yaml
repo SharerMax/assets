@@ -39,4 +39,11 @@ payload:
   - 'DOMAIN-SUFFIX,missav.com'
   - 'DOMAIN-SUFFIX,madoucun.com'
   - 'DOMAIN-SUFFIX,gitbook.io'
-  - 'DOMAIN-SUFFIX,npmjs.com'
+  - 'DOMAIN-SUFFIX,v.recipes' # DNS
+  - 'DOMAIN-SUFFIX,dns.dnswarden.com' #DNS
+  - 'DOMAIN-SUFFIX,dns.njal.la' #DNS
+  - 'DOMAIN-SUFFIX,opendns.com' #DNS
+  - 'DOMAIN-SUFFIX,dns.google' #DNS
+  - 'DOMAIN-SUFFIX,one.one.one.one' #DNS  
+  - 'DOMAIN-SUFFIX,cloudflare-dns.com' #DNS
+  - 'DOMAIN-SUFFIX,dns.sb' #DNS
