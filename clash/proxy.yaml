@@ -39,6 +39,7 @@ payload:
   - 'DOMAIN-SUFFIX,missav.com'
   - 'DOMAIN-SUFFIX,madoucun.com'
   - 'DOMAIN-SUFFIX,gitbook.io'
+  - 'DOMAIN-SUFFIX,tgstat.com'
   - 'DOMAIN-SUFFIX,v.recipes' # DNS
   - 'DOMAIN-SUFFIX,dns.dnswarden.com' #DNS
   - 'DOMAIN-SUFFIX,dns.njal.la' #DNS
