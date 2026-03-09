@@ -38,6 +38,7 @@ payload:
   - 'DOMAIN-SUFFIX,arco.design'
   - 'DOMAIN-SUFFIX,missav.com'
   - 'DOMAIN-SUFFIX,madoucun.com'
+  - 'DOMAIN-SUFFIX,madou.com'
   - 'DOMAIN-SUFFIX,gitbook.io'
   - 'DOMAIN-SUFFIX,tgstat.com'
   - 'DOMAIN-SUFFIX,v.recipes' # DNS
