@@ -50,4 +50,5 @@ payload:
   - 'DOMAIN-SUFFIX,cloudflare-dns.com' #DNS
   - 'IP-CIDR,1.1.1.1/32' #DNS
   - 'IP-CIDR,1.0.0.1/32' #DNS
+  - 'IP-CIDR,101.101.101.101/32' #DNS  
   - 'DOMAIN-SUFFIX,dns.sb' #DNS
