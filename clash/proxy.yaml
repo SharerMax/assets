@@ -51,7 +51,8 @@ payload:
   - 'DOMAIN-SUFFIX,dns.quad9.net' #DNS
   - 'DOMAIN-SUFFIX,dns10.quad9.net' #DNS
   - 'DOMAIN-SUFFIX,dns11.quad9.net' #DNS
+  - 'DOMAIN-SUFFIX,dns.adguard-dns.com' #DNS 
+  - 'DOMAIN-SUFFIX,dns.sb' #DNS
   - 'IP-CIDR,1.1.1.1/32' #DNS
   - 'IP-CIDR,1.0.0.1/32' #DNS
-  - 'IP-CIDR,101.101.101.101/32' #DNS  
-  - 'DOMAIN-SUFFIX,dns.sb' #DNS
+  - 'IP-CIDR,101.101.101.101/32' #DNS 
