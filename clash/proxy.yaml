@@ -40,6 +40,7 @@ payload:
   - 'DOMAIN-SUFFIX,gitbook.io'
   - 'DOMAIN-SUFFIX,tgstat.com'
   - 'DOMAIN-SUFFIX,1024.day'
+  - 'DOMAIN-SUFFIX,cfnav.me'
   - 'DOMAIN-SUFFIX,v.recipes' # DNS
   - 'DOMAIN-SUFFIX,dns.dnswarden.com' #DNS
   - 'DOMAIN-SUFFIX,dns.njal.la' #DNS
