@@ -41,6 +41,7 @@ payload:
   - 'DOMAIN-SUFFIX,tgstat.com'
   - 'DOMAIN-SUFFIX,1024.day'
   - 'DOMAIN-SUFFIX,cfnav.me'
+  - 'DOMAIN-SUFFIX,whos.tv'
   - 'DOMAIN-SUFFIX,v.recipes' # DNS
   - 'DOMAIN-SUFFIX,dns.dnswarden.com' #DNS
   - 'DOMAIN-SUFFIX,dns.njal.la' #DNS
